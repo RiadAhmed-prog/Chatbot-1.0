@@ -1,2 +1,0 @@
-Name: mark
-Age: 7
